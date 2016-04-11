@@ -1,0 +1,21 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+{% include page-title.html title="Projects" %}
+
+{% for project in site.projects %}
+{% unless project.title == "Projects" %}
+<div class="row">
+    <article>
+      <header>
+        <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+        <span class="byline">{{ project.short_description }}</span>
+      </header>
+      <p>{{ project.long_description }}</p>
+    </article>
+</div>
+{% endunless %}
+{% endfor %}
