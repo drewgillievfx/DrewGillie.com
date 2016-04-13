@@ -1,0 +1,21 @@
+<!-- Main -->
+<div id="intro" class="container">
+  <div class="row">
+    {% for project in site.projects %}
+    {% if project.featured %}
+    <section class="4u 12u(mobile)">
+      <span class="number">01</span>
+      <header>
+        <h2>{{ project.title }}</h2>
+      </header>
+      <p>{{ project.short_description }}</p>
+      <p>{{ project.long_description }}</p>
+    </section>
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="actions">
+    <a href="#" class="button button-big">Get Started</a>
+    <a href="#" class="button button-big button-alt">Learn More</a>
+  </div>
+</div>
