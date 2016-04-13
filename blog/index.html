@@ -5,3 +5,31 @@ permalink: /blog/
 ---
 
 {% include page-title.html title="Blog" %}
+
+<div class="row">
+  <div class="12u">
+    <ul class="style3">
+      {% for post in paginator.posts %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <li>
+          <p class="date">{{ post.date | date: "%B" | truncate:3, "" }}<b>{{ post.date | date: "%d" }}</b></p>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+        </li>
+      </a>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="12u align-center">
+    {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="icon"><i class="fa fa-arrow-left"> Previous</i></a> |
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+    | <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="icon">Next <i class="fa fa-arrow-right"></i></a>
+    {% endif %}
+  </div>
+</div>
