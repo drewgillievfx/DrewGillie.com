@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-short_description: Short Project description
+title: Thesis
+short_description: 3D compositing
 long_description: >
   Long description describing this project. It was a pretty cool project to work
   on but I simply don't have much more time to work on it.
@@ -9,4 +9,12 @@ image: project1.png
 featured: True
 ---
 
-{% include page-title.html title="Project 1" %}
+{% include page-title.html title="Thesis" %}
+
+Comprehensive comparison of integrating 3D and live action elements. Using Nuke
+and Maya to compare several different methods for creating a visual effect shot
+in a motion picture. Chrome ball used on set to capture lighting information. 3D
+environment created and composited into real footage. Photo spheres created. 3D
+model created in Maya, and from photos into 3D mesh ACES workflow used to
+preserve color information for a better composite. Find the limitations of how
+far each method can be pushed before the shot starts to look unreal.
