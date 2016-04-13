@@ -3,8 +3,11 @@ layout: page
 title: MPS Shootout
 short_description: ARRI D21 vs. 35 mm film
 long_description: >
-  Long description describing this project. It was a pretty cool project to work
-  on but I simply don't have much more time to work on it.
+  Technical analysis between the Arri D-21 and the Arriflex BL-III using Vision
+  3 500T Film to explore critical image quality. Produced and planned the
+  shootout. Compared the tracking ability of blue and green screens between each
+  camera system. On set visual effects supervisor to ensure that the green
+  screen scenes were properly recorded and lit. Used Nuke in the ACES workflow.
 image: project2.png
 featured: True
 ---
@@ -16,4 +19,10 @@ compare several things between the cameras. The first thing I wanted to test was
 how each camera would key on a blue screen and a green screen, then compare the
 results. The next thing I wanted to test, was how good each camera could pull a
 key with difficult items on the green screen. We chose a net, a see through
-shower curtain,
+shower curtain, and a comb-mobile to be our high frequency content. The Third
+thing I wanted to test for was how color would be affected through the keying
+process. A Macbeth chart was placed on the green screen set. Lastly I wanted to
+test the tracking ability of the two camera systems. Tennis ball trackers were
+made and thrown around the set while the camera moved all around. Some
+stationary tennis balls were placed in the scene as well. This scene was then
+tracked in 2D and 3D to see how well each camera would track.
