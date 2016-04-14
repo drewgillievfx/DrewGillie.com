@@ -12,9 +12,9 @@ permalink: /blog/
       {% for post in paginator.posts %}
       <a href="{{ site.baseurl }}{{ post.url }}">
         <li>
-          <p class="date">{{ post.date | date: "%B" | truncate:3, "" }}<b>{{ post.date | date: "%d" }}</b></p>
+          <span>{{ post.date | date: "%B" | truncate:3, "" }} {{ post.date | date: "%d" }}</span>
           <h3>{{ post.title }}</h3>
-          <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+          <p>{{ post.content | strip_html | truncatewords:30 }} </p>
         </li>
       </a>
       {% endfor %}
