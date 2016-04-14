@@ -4,10 +4,7 @@ title: MPS Shootout
 short_description: ARRI D21 vs. 35 mm film
 long_description: >
   Technical analysis between the Arri D-21 and the Arriflex BL-III using Vision
-  3 500T Film to explore critical image quality. Produced and planned the
-  shootout. Compared the tracking ability of blue and green screens between each
-  camera system. On set visual effects supervisor to ensure that the green
-  screen scenes were properly recorded and lit. Used Nuke in the ACES workflow.
+  3 500T Film to explore critical image quality.
 image: project2.png
 featured: True
 ---
