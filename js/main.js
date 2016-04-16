@@ -20,7 +20,8 @@ var settings = {
 
 			'images/slide01.jpg': 'center left',
 			'images/slide02.jpg': 'center center',
-			'images/slide03.jpg': 'top center'
+			'images/slide03.jpg': 'top center',
+			'images/slide04.jpg': 'top center'
 
 		},
 
