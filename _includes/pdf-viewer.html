@@ -1,0 +1,7 @@
+<script src="/js/pdfobject.min.js"></script>
+
+<div id="pdf-view"></div>
+
+<script type="text/javascript">
+  PDFObject.embed("{{ include.filename }}", "#pdf-view", {height: "60em"});
+</script>

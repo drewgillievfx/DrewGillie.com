@@ -13,3 +13,5 @@ You can find the source code for the Jekyll new theme at:
 
 
 You can find the source code for Jekyll at
+
+{% include pdf-viewer.html filename="/resume.pdf" %}
