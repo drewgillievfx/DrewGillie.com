@@ -3,8 +3,7 @@ layout: page
 title: Thesis
 short_description: 3D compositing
 long_description: >
-  Long description describing this project. It was a pretty cool project to work
-  on but I simply don't have much more time to work on it.
+  Using Nuke, Maya, and Memento to create a realistic visual effects shot.
 image: project1.png
 featured: True
 ---
