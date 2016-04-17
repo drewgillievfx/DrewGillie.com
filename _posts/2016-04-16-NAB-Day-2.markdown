@@ -4,13 +4,11 @@ title: "NAB Day 2"
 date:  2016-04-16 15:08:28
 categories:
 ---
-[Basic syntax help for Markdown](http://daringfireball.net/projects/markdown/basics)
 NAB 2016 Day 2
-====================
-A Second Level Header
----------------------
+
 Next Generation mastering
 OpenEXR was created for visual effects, but now they are being utilized by
 cameras. This really allows for HDR content to be preserved and shown. Each
 camera has different raw formats, so the .EXR is used to help standardize the
-HDR content. 
+HDR content. The standard will really be useful for archival purposes because
+different codecs may not be supported 50 years down the road.
