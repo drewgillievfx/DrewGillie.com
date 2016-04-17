@@ -1,0 +1,32 @@
+---
+layout: post
+title: "NAB Day 2"
+date:  2016-04-16 15:08:28
+categories:
+---
+[Basic syntax help for Markdown](http://daringfireball.net/projects/markdown/basics)
+NAB 2016 Day 2
+====================
+A Second Level Header
+---------------------
+
+### Header 3
+> This is a blockquote.
+>
+> This is the second paragraph in the blockquote.
+>
+> ## This is an H2 in a blockquote
+*   Dandy.
+*   Gum.
+1.  Red
+2.  Green
+3.  Blue
+This is an [example link](http://example.com/).
+[1]: http://google.com/        "Google"
+[2]: http://search.yahoo.com/  "Yahoo Search"
+[3]: http://search.msn.com/    "MSN Search"
+To highlight:
+{% highlight text linenos %}
+some text to be syntax highlighted....
+{% endhighlight %}
+![alt text](/path/to/img.jpg "Title")
