@@ -6,7 +6,7 @@ long_description: >
   RIT Motion Picture Science students create a fictional "behind-the-scenes" experience to show off their homemade virtual reality camera and display
   system. Shown here is the flattened 360-degree virtual canvas from the final
   film.
-image: project3.png
+image: http://placehold.it/400x400
 featured: True
 ---
 
