@@ -543,6 +543,11 @@
 			text-align: center;
 			font-weight: 700;
 			color: #FFF;
+
+				img {
+					max-width: 100%;
+					border-radius: 100%;
+				}
 		}
 
 		section:last-child {

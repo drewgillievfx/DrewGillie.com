@@ -7,37 +7,24 @@ permalink: /projects/
 {% include page-title.html title="Projects" %}
 
 <div class="row">
-{% for project in site.projects %}
-{% unless project.title == "Projects" %}
-<!--
-<div class="row">
-    <article>
-      <header>
-        <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-        <span class="byline">{{ project.short_description }}</span>
-      </header>
-      <p>{{ project.long_description }}</p>
-    </article>
-</div>
--->
-<div class="6u">
-
-
-<a href="{{ project.url }}">
-  <div class="project-image">
-    <img src="{{ project.image }}" alt="{{ project.title }}" />
-    <h2><span>
-      <span class='spacer'></span>
-      {{ project.title }}
-      <span class='spacer'></span>
-      <br />
-      <span class='spacer'></span>
-      {{ project.short_description }}
-      <span class='spacer'></span>
-    </span></h2>
+  {% for project in site.projects %}
+  {% unless project.title == "Projects" %}
+  <div class="6u">
+    <a href="{{ project.url }}">
+      <div class="project-image">
+        <img src="{{ project.image }}" alt="{{ project.title }}" />
+        <h2><span>
+          <span class='spacer'></span>
+          {{ project.title }}
+          <span class='spacer'></span>
+          <br />
+          <span class='spacer'></span>
+          {{ project.short_description }}
+          <span class='spacer'></span>
+        </span></h2>
+      </div>
+    </a>
   </div>
-</a>
-</div>
-{% endunless %}
-{% endfor %}
+  {% endunless %}
+  {% endfor %}
 </div>
