@@ -12,3 +12,58 @@ cameras. This really allows for HDR content to be preserved and shown. Each
 camera has different raw formats, so the .EXR is used to help standardize the
 HDR content. The standard will really be useful for archival purposes because
 different codecs may not be supported 50 years down the road.
+
+Should older content be made into HDR? Does it look good? Would the original
+artists want their content in HDR now?
+
+Virtual Reality
+
+World building is a huge part of the movie making process. This translates very
+well into virtual reality.
+
+
+Future of VR and Light Fields
+
+Light fields 101
+
+light fields outside of cameras
+light fields inside of cameras
+5D plenoptic function
+light fields are holographic
+cameras are single perspective-holograms are multiperspective
+microlens array in camera-each cell is one perspective-holograms
+doing raytracing you can refocus, tilting focus, split diopter, stereo 3D
+removing selected rays, stop down in post, depth sensing
+some problems
+data
+data
+data
+optics
+locked out of the grade
+visby-hiring........
+
+
+otoy-light field rendering
+challenges
+-capture: light stage
+-render: octane render
+-stream: orbx
+ octane render- really fast gpu renderer
+ 1 frame of rendering if the light field is rendered verses multiple frames
+ being rendered. taking light stage capture and record motion then you can
+ relight or change the angle etc.
+
+
+ Lytro
+ how the lytro cinema works
+ microlens array- basically a compact camera array. each 'pixel' has a lens on
+ it
+
+ light field cinematography
+ capture the normals, depth info
+
+ in nuke studio you can edit
+ files are in .exr
+
+ volumetric flow, guage where the rays of light are going-allows you to change
+ framerate
