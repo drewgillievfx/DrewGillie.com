@@ -4,7 +4,7 @@ title: Thesis
 short_description: 3D compositing
 long_description: >
   Using Nuke, Maya, and Memento to create a realistic visual effects shot.
-image: http://placehold.it/400x400
+image: /images/projects/thesis.png
 featured: True
 ---
 
