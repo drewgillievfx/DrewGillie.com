@@ -543,12 +543,47 @@
 			text-align: center;
 			font-weight: 700;
 			color: #FFF;
+
+				img {
+					max-width: 100%;
+					border-radius: 100%;
+				}
 		}
 
 		section:last-child {
 			border-right: none;
 		}
 	}
+
+/* Project Page */
+.project-image {
+	position: relative;
+	width: 100%;
+
+	img {
+		width: 100%;
+		max-height: 400px;
+	}
+
+	h2 {
+		position: absolute;
+		top: 200px;
+		left: 0;
+		width: 100%;
+
+		span {
+			color: white;
+			font: bold 24px/45px Helvetica, Sans-Serif;
+			letter-spacing: -1px;
+			background: rgb(0, 0, 0); /* fallback color */
+			background: rgba(0, 0, 0, 0.7);
+
+			.spacer {
+				margin: 0 5px;
+			}
+		}
+	}
+}
 
 /* Desktop */
 
@@ -1204,5 +1239,4 @@
 					margin-top: 1em;
 				}
 			}
-
 	}
