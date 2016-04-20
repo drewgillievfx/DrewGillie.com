@@ -5,11 +5,7 @@ short_description: ARRI D21 vs. 35 mm film
 long_description: >
   Technical analysis between the Arri D-21 and the Arriflex BL-III using Vision
   3 500T Film to explore critical image quality.
-<<<<<<< HEAD
-image: http://placehold.it/400x400
-=======
 image: /images/projects/shootout.png
->>>>>>> da84bf8ecc68be3da8bf548f36e567306b1a4452
 featured: True
 ---
 
