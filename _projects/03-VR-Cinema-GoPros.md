@@ -3,9 +3,16 @@ layout: page
 title: SMPTE VR
 short_description: VR cinema with GoPros
 long_description: >
+<<<<<<< HEAD
   RIT Motion Picture Science homemade virtual reality camera and display
   system.
 image: http://placehold.it/400x400
+=======
+  RIT Motion Picture Science students create a fictional "behind-the-scenes" experience to show off their homemade virtual reality camera and display
+  system. Shown here is the flattened 360-degree virtual canvas from the final
+  film.
+image: /images/projects/VR.png
+>>>>>>> da84bf8ecc68be3da8bf548f36e567306b1a4452
 featured: True
 ---
 
