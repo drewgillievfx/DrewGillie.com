@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drew's TV Purchasing guide"
-date: 2016-04-17 15:08:28 -0400
+date: 
 categories:
 ---
 # Drew’s guide for buying Televisions
