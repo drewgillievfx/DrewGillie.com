@@ -33,8 +33,10 @@ date: "2016-08-21 21:25:39 -0400"
 
 	Disadvantages
 
-    -In room lighting will affect it, but handles it the best out of the 3 choices
+    -In room lighting will affect it, but handles it the best out of the 3
+    choices
     -Not the best for black and white pixels
+
 
 ### OLED-organic light emmiting diode
 
@@ -49,6 +51,7 @@ date: "2016-08-21 21:25:39 -0400"
     -Lifespan-colors die after roughly 5 years
     -Blue degrades faster than other colors
     -Consumes more power
+
 
 #### Plasma –plasma
 
@@ -69,18 +72,21 @@ date: "2016-08-21 21:25:39 -0400"
    -Tv will shut off if it recognizes a pause screen on for more than ten
    minutes
 
+
 ##### Summary of four technologies
 
 	OLED and Plasma are the best, followed by LED, then LCD
 	Price wise – cheapest is LCD, then LED then Plasma, then OLED
 	Plasma is cheap until it gets to about 50 inches
 	All in all LED is probably the best choice
+
  
 ###### Features common in TV’s
 
 	Refresh rate
-		60 hz - Not many tvs are 60 hz
-			     This is the minimum necessary for TV’s
+		60 hz
+      Not many tvs are 60 hz
+			This is the minimum necessary for TV’s
 		120 hz
 			Most Tv’s have this
 			In my opinion this is the best option, unless it is 4K
@@ -100,7 +106,8 @@ date: "2016-08-21 21:25:39 -0400"
 
 	****some tv’s have the option to switch refresh rate if 240hz is advertised
 
-  Resolution
+
+###### Resolution
     720
 	   Good for displays smaller than 30 inches viewed at normal couch distance
     1080
