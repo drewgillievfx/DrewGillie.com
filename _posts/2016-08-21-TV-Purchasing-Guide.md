@@ -6,14 +6,14 @@ date: "2016-08-21 21:25:39 -0400"
 
 
 
-# LCD - Liquid crystal display
+# *LCD* - Liquid crystal display
 
-	Benefits
+	*Benefits*
 
     -Good blacks and whites
     -Less of a delay if you like gaming and are sensitive to lag
 
-	Disadvantages
+	*Disadvantages*
 
     -Terrible viewing angle – it wont look best off axis like 40-degrees away
     -Not good color reproduction
@@ -22,9 +22,9 @@ date: "2016-08-21 21:25:39 -0400"
 
 
 
-## LED - Light emitting diode
+## *LED* - Light emitting diode
 
-	Benefits
+	*Benefits*
 
     -More light power per watt
     -good color reproduction
@@ -32,36 +32,36 @@ date: "2016-08-21 21:25:39 -0400"
     -Can take a beating if dropped
     -Good viewing angle
 
-	Disadvantages
+	*Disadvantages*
 
     -In room lighting will affect it, but handles it the best out of the 3
     choices
     -Not the best for black and white pixels
 
 
-### OLED-organic light emmiting diode
+### *OLED*-organic light emmiting diode
 
-	Benefits
+	*Benefits*
 
     -No backlighting-means true blacks
     -Higher contrast ratio
     -Large viewing angle
 
-	Disadvantages
+	*Disadvantages*
 
     -Lifespan-colors die after roughly 5 years
     -Blue degrades faster than other colors
     -Consumes more power
 
 
-#### Plasma –plasma
+#### *Plasma* –plasma
 
-	Benefits
+	*Benefits*
 
     -Amazing color reproduction
     -True black colors
 
-	Disadvantages
+	*Disadvantages*
 
 	 -Glass screen, highly reflective
    -Can shatter if not careful
@@ -76,7 +76,7 @@ date: "2016-08-21 21:25:39 -0400"
 
 ##### Summary of four technologies
 
-	OLED and Plasma are the best, followed by LED, then LCD
+	**OLED** and *Plasma* are the best, followed by LED, then LCD
 	Price wise – cheapest is LCD, then LED then Plasma, then OLED
 	Plasma is cheap until it gets to about 50 inches
 	All in all LED is probably the best choice
@@ -109,13 +109,13 @@ date: "2016-08-21 21:25:39 -0400"
 
 
 ###### Resolution
-    720
+    *720*
 	   Good for displays smaller than 30 inches viewed at normal couch distance
-    1080
+    *1080*
 	   Good for most TVs
      When size of tv is more than 40 inches, it depends on viewing distance
      Most things are exported in 1080
-	  4K
+	  *4K*
 	   Good for anything bigger than 45 inches
      Not much media is in 4K now, however it will slowly get there
      Requires smart TV incorporated into it because of up sampling 1080
