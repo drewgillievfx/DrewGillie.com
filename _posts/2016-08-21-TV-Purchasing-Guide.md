@@ -21,6 +21,7 @@ date: "2016-08-21 21:25:39 -0400"
     -Cannot see if wearing polarized sunglasses
 
 
+
 ## LED - Light emitting diode
 
 	Benefits
