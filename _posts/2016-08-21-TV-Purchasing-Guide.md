@@ -109,13 +109,13 @@ date: "2016-08-21 21:25:39 -0400"
 
 
 ###### Resolution
-    _720_
+    __720__
 	   Good for displays smaller than 30 inches viewed at normal couch distance
-    _1080_
+    __1080__
 	   Good for most TVs
      When size of tv is more than 40 inches, it depends on viewing distance
      Most things are exported in 1080
-	  _4K_
+	  __4K__
 	   Good for anything bigger than 45 inches
      Not much media is in 4K now, however it will slowly get there
      Requires smart TV incorporated into it because of up sampling 1080
