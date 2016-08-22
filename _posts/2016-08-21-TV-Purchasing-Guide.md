@@ -4,10 +4,9 @@ title: "Drew's TV Purchasing Guide"
 date: "2016-08-21 21:25:39 -0400"
 ---
 
-# Drew’s guide for buying Televisions
 
 
-## LCD - Liquid crystal display
+# LCD - Liquid crystal display
 
 	Benefits
 
@@ -22,7 +21,7 @@ date: "2016-08-21 21:25:39 -0400"
     -Cannot see if wearing polarized sunglasses
 
 
-### LED - Light emitting diode
+## LED - Light emitting diode
 
 	Benefits
 
@@ -34,10 +33,10 @@ date: "2016-08-21 21:25:39 -0400"
 
 	Disadvantages
 
-    -In room lighting affects it, but handles it the best out of the 3 choices
-    -Not the best for blacks and whites…………(colors…..of pixels..)
+    -In room lighting will affect it, but handles it the best out of the 3 choices
+    -Not the best for black and white pixels
 
-#### OLED-organic light emmiting diode
+### OLED-organic light emmiting diode
 
 	Benefits
 
@@ -51,37 +50,37 @@ date: "2016-08-21 21:25:39 -0400"
     -Blue degrades faster than other colors
     -Consumes more power
 
-##### Plasma –plasma
+#### Plasma –plasma
 
 	Benefits
 
     -Amazing color reproduction
-    -True blacks
+    -True black colors
 
 	Disadvantages
 
-	 -Glass screen
+	 -Glass screen, highly reflective
    -Can shatter if not careful
    -Glossy surface and will reflect room lighting if it is on ‘screen burn’
    -They have gotten much better at fixing this
-   -Software to fix if it does happen
+   -Software to fix a burned image if it does happen
    -As long as you don’t watch 4 x 3 or leave your tv on pause for 16 hours you
    will be fine
-   -Tv will shut off if it recognizes a pause screen on for more than ten minutes
+   -Tv will shut off if it recognizes a pause screen on for more than ten
+   minutes
 
-###### Summary of four technologies
+##### Summary of four technologies
 
 	OLED and Plasma are the best, followed by LED, then LCD
 	Price wise – cheapest is LCD, then LED then Plasma, then OLED
 	Plasma is cheap until it gets to about 50 inches
 	All in all LED is probably the best choice
  
-####### Features common in TV’s
+###### Features common in TV’s
 
 	Refresh rate
-		60 hz
-			Not many tvs are 60 hz
-			This is the minimum necessary for TV’s
+		60 hz - Not many tvs are 60 hz
+			     This is the minimum necessary for TV’s
 		120 hz
 			Most Tv’s have this
 			In my opinion this is the best option, unless it is 4K
