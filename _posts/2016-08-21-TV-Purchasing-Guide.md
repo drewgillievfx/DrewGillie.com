@@ -6,13 +6,16 @@ date: "2016-08-21 21:25:39 -0400"
 
 # Drew’s guide for buying Televisions
 
+
 ## LCD - Liquid crystal display
 
 	Benefits
+
     -Good blacks and whites
     -Less of a delay if you like gaming and are sensitive to lag
 
 	Disadvantages
+
     -Terrible viewing angle – it wont look best off axis like 40-degrees away
     -Not good color reproduction
     -Room lighting can be a problem
@@ -22,6 +25,7 @@ date: "2016-08-21 21:25:39 -0400"
 ### LED - Light emitting diode
 
 	Benefits
+
     -More light power per watt
     -good color reproduction
     -Last longer
@@ -29,17 +33,20 @@ date: "2016-08-21 21:25:39 -0400"
     -Good viewing angle
 
 	Disadvantages
+
     -In room lighting affects it, but handles it the best out of the 3 choices
     -Not the best for blacks and whites…………(colors…..of pixels..)
 
 #### OLED-organic light emmiting diode
 
 	Benefits
+
     -No backlighting-means true blacks
     -Higher contrast ratio
     -Large viewing angle
 
 	Disadvantages
+
     -Lifespan-colors die after roughly 5 years
     -Blue degrades faster than other colors
     -Consumes more power
@@ -47,10 +54,12 @@ date: "2016-08-21 21:25:39 -0400"
 ##### Plasma –plasma
 
 	Benefits
+
     -Amazing color reproduction
     -True blacks
 
 	Disadvantages
+
 	 -Glass screen
    -Can shatter if not careful
    -Glossy surface and will reflect room lighting if it is on ‘screen burn’
