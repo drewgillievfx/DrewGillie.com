@@ -10,16 +10,16 @@ featured: True
 
 {% include page-title.html title="Thesis" %}
 
-*Summary: A comprehensive comparison* of integrating 3D and live action elements.
+*Summary: A comprehensive comparison of integrating 3D and live action elements.
 Using Nuke and Maya to compare several different methods for creating a visual
-effect shot in a motion picture. *A chrome ball was used on set to capture
+effect shot in a motion picture. A chrome ball was used on set to capture
 lighting information. 3D environments created and composited into real footage.
-Photo spheres created. 3D model created in Maya,* and from photos into a 3D mesh.
+Photo spheres created. 3D model created in Maya, and from photos into a 3D mesh.
 An ACES workflow was used to preserve color information for a better composite.
 The goal of this project was to find the limitations of how far each method can
-be pushed before the shot starts to look unreal.
+be pushed before the shot starts to look unreal.*
 
-The scope of this project was to create a high-end visual effects shot several
+*The scope of this project was to create a high-end visual effects shot several
 different ways and compare these different methods. Then talk a little bit about
 the science behind the shot.*
 
