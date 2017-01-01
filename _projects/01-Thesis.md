@@ -10,7 +10,7 @@ featured: True
 
 {% include page-title.html title="Thesis" %}
 
-*Summary: A comprehensive comparison of integrating 3D and live action elements.
+_Summary: A comprehensive comparison of integrating 3D and live action elements.
 Using Nuke and Maya to compare several different methods for creating a visual
 effect shot in a motion picture. A chrome ball was used on set to capture
 lighting information. 3D environments created and composited into real footage.
@@ -21,7 +21,7 @@ be pushed before the shot starts to look unreal.
 
 The scope of this project was to create a high-end visual effects shot several
 different ways and compare these different methods. Then talk a little bit about
-the science behind the shot.*
+the science behind the shot._
 
 
 ## **1.	How to shoot a Chrome ball.**
@@ -102,10 +102,10 @@ do not want to choose to shoot a panosphere, or do not have the time you may
 want to purchase a cheaper smaller chrome ball.
 
 
-## **3.	Maya or ~~Memento~~ Remake?**
+## **3.	Maya or Memento?**
 *Since this was written Autodesk released the official software Remake. This
-project was done while it was still in beta and it was called Memento.
-~~Memento~~ Remake*
+project was done while it was still in beta and it was called Memento.*
+
 
 
   The original intent on this project was to compare a live action actor with a
