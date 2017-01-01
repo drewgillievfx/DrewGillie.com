@@ -10,13 +10,13 @@ featured: True
 
 {% include page-title.html title="Thesis" %}
 
-Comprehensive comparison of integrating 3D and live action elements. Using Nuke
+*Summary: Comprehensive comparison of integrating 3D and live action elements. Using Nuke
 and Maya to compare several different methods for creating a visual effect shot
 in a motion picture. Chrome ball used on set to capture lighting information. 3D
 environment created and composited into real footage. Photo spheres created. 3D
 model created in Maya, and from photos into 3D mesh ACES workflow used to
 preserve color information for a better composite. Find the limitations of how
-far each method can be pushed before the shot starts to look unreal.
+far each method can be pushed before the shot starts to look unreal.*
 
 
 There are more ways than one to accomplish a task.
@@ -28,8 +28,8 @@ the shot.
 I did learn a lot from this experience so there’s that. Looking back at this
 project I think that I just tried to do too much.
 
-Tutorials
-1.	How to shoot a Chrome ball.
+
+## **1.	How to shoot a Chrome ball.**
 
 A chrome ball is typically used in High dynamic range photography. It can also
 be used to capture lighting information about a scene from nearly 270 degrees.
@@ -74,7 +74,7 @@ purchased for this project was polished in a machine shop to be shiny.
 One thing I would have like to have done is to measure the balls reflectance,
 so that in post I could adjust for that.
 
-2.	How to make a panosphere
+## **2.	How to make a panosphere**
 
 A panosphere is a panoramic photo that includes everything around a point, of
 the camera.
@@ -98,7 +98,7 @@ information but do not have a chrome ball will need to use this method. In this
  case, where you do not want to choose to shoot a panosphere, you may want to go
   with the cheaper smaller chrome balls.
 
-3.	Maya or Memento?
+## **3.	Maya or Memento?**
 The original intent on this project was to compare a live action actor with a
 3D model created in Maya, and a 3D model stitched from photos using Autodesk
 Memento.
@@ -163,7 +163,7 @@ What is interesting to note is that sometimes being far away from the subject
 stitches really well, and sometimes being close stitches well with great detail.
 
 
-4.	How to Green screen
+## **4.	How to Green screen**
 
 Green screening is a technique that has been around for a while and it is the
 process of filming someone with a green background. In listening to several
@@ -200,7 +200,7 @@ chrome ball. Because nearly 270 degrees can be seen in 1 2D image it was helpful
   used for this feature. It may not be able to be used for hdr work, but it
   definitely is a great start that will help get you into it.
 
-5.	Nuke
+## **5.	Nuke**
 
 Nuke is a high end visual effects software that allows me to use an ACES
 workflow. I am going to step through the process I took to use nuke. The first
@@ -222,14 +222,14 @@ they were from the same clip. I can start to color correct the green screen
 footage then give the overall shot a grade to help to blend the two clips even
 further.
 
-6.	Rendering
+## **6.	Rendering**
 Rendering can take up a lot of time, and it is important to work with proxies
 until the final render. This helps to speed up the workflow. Especially working
  with memento, a proxy should be rendered out to speed up the program. Nuke will
   struggle with the geometry from memento because the average mesh is huge.
   One of my own meshes was almost 3 million faces
 
-7.	What have I learned?
+## **7.	What have I learned?**
 If I could give advice to my younger self or any others wanting to do a
 visual effects project similar to mine here are some things I would say.
 
