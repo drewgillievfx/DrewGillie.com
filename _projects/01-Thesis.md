@@ -32,6 +32,7 @@ If the ball is shot from multiple angles, (90 degree separation) then most of
 the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
+
 First Chrome ball Purchased  
 ![alt text][fcb]
 
