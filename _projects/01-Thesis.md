@@ -33,10 +33,6 @@ the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
 
-First Chrome ball Purchased  
-![alt text][ball]
-
-[ball]: https://github.com/drewgillievfx/DrewGillie.com/tree/gh-pages/imagesIMG_8483.jpg "First Chrome Ball"
 
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
