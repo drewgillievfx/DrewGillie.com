@@ -34,9 +34,9 @@ be used in post.
 
 
 First Chrome ball Purchased  
-![alt text][fcb]
+![alt text][ball]
 
-[fcb]: https://github.com/drewgillievfx/DrewGillie.com/blob/gh-pages/images/IMG_8483.jpg "First Chrome Ball"
+[ball]: https://github.com/drewgillievfx/DrewGillie.com/tree/gh-pages/imagesIMG_8483.jpg "First Chrome Ball"
 
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
