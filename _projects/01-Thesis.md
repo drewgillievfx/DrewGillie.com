@@ -32,6 +32,8 @@ If the ball is shot from multiple angles, (90 degree separation) then most of
 the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
+![alt text](https://github.com/drewgillievfx/DrewGillie.com/blob/gh-pages/images/IMG_8483.jpg "First Chrome Ball")
+
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
 environment ball to project onto geometry the lighting information.
