@@ -33,7 +33,7 @@ the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
 # trying to add photo here
-![First Chrome Ball](https://github.com/drewgillievfx/DrewGillie.com/blob/gh-pages/images/Chrome%20ball/IMG_9153.jpg)
+![First Chrome Ball](https://github.com/drewgillievfx/DrewGillie.com/tree/gh-pages/images/Chrome%20ball/IMG_9181.m4v)
 
 
   This unwrapping process can be done with software like *Nuke*, or
