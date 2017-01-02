@@ -7,7 +7,6 @@ date: "2016-08-21 21:25:39 -0400"
 
 1. First title
 2. second item
-
 		- sub second.
 
 3. third title
@@ -29,92 +28,92 @@ date: "2016-08-21 21:25:39 -0400"
 
 
 
-# *LCD* - Liquid crystal display
+## LCD - *Liquid crystal display*
 
-	*Benefits*
+### Benefits
 
-    -Good blacks and whites
-    -Less of a delay if you like gaming and are sensitive to lag
+    - Good blacks and whites
+    - Less of a delay if you like gaming and are sensitive to lag
 
-	*Disadvantages*
+### Disadvantages
 
-    -Terrible viewing angle – it wont look best off axis like 40-degrees away
-    -Not good color reproduction
-    -Room lighting can be a problem
-    -Cannot see if wearing polarized sunglasses
+    - Terrible viewing angle – it wont look best off axis like 40-degrees away
+    - Not good color reproduction
+    - Room lighting can be a problem
+    - Cannot see if wearing polarized sunglasses
 
 
 
-## *LED* - Light emitting diode
+## LED - *Light emitting diode*
 
-	*Benefits*
+### Benefits
 
-    -More light power per watt
-    -good color reproduction
-    -Last longer
-    -Can take a beating if dropped
-    -Good viewing angle
+    - More light power per watt
+    - good color reproduction
+    - Last longer
+    - Can take a beating if dropped
+    - Good viewing angle
 
-	*Disadvantages*
+### Disadvantages
 
-    -In room lighting will affect it, but handles it the best out of the 3
+    - In room lighting will affect it, but handles it the best out of the 3
     choices
-    -Not the best for black and white pixels
+    - Not the best for black and white pixels
 
 
-### *OLED*-organic light emmiting diode
+## OLED - *Organic Light Emmiting Diode*
 
-	*Benefits*
+### Benefits
 
-    -No backlighting-means true blacks
-    -Higher contrast ratio
-    -Large viewing angle
+    - No backlighting-means true blacks
+    - Higher contrast ratio
+    - Large viewing angle
 
-	*Disadvantages*
+### Disadvantages
 
-    -Lifespan-colors die after roughly 5 years
-    -Blue degrades faster than other colors
-    -Consumes more power
+    - Lifespan-colors die after roughly 5 years
+    - Blue degrades faster than other colors
+    - Consumes more power
 
 
-#### *Plasma* –plasma
+## Plasma  
 
-	*Benefits*
+### Benefits
 
-    -Amazing color reproduction
-    -True black colors
+    - Amazing color reproduction
+    - True black colors
 
-	*Disadvantages*
+### Disadvantages
 
-	 -Glass screen, highly reflective
-   -Can shatter if not careful
-   -Glossy surface and will reflect room lighting if it is on ‘screen burn’
-   -They have gotten much better at fixing this
-   -Software to fix a burned image if it does happen
-   -As long as you don’t watch 4 x 3 or leave your tv on pause for 16 hours you
+	 - Glass screen, highly reflective
+   - Can shatter if not careful
+   - Glossy surface and will reflect room lighting if it is on ‘screen burn’
+   - They have gotten much better at fixing this
+   - Software to fix a burned image if it does happen
+   - As long as you don’t watch 4 x 3 or leave your tv on pause for 16 hours you
    will be fine
-   -Tv will shut off if it recognizes a pause screen on for more than ten
+   - Tv will shut off if it recognizes a pause screen on for more than ten
    minutes
 
 
-##### Summary of four technologies
+## Summary of four technologies
 
-	**OLED** and *Plasma* are the best, followed by LED, then LCD
+	**OLED** and **Plasma** are the best, followed by LED, then LCD
 	Price wise – cheapest is LCD, then LED then Plasma, then OLED
 	Plasma is cheap until it gets to about 50 inches
 	All in all LED is probably the best choice
 
  
-###### Features common in TV’s
+## Features common in TV’s
 
-	Refresh rate
-		60 hz
+	**Refresh rate**
+	-	60 hz
       Not many tvs are 60 hz
 			This is the minimum necessary for TV’s
-		120 hz
+	-	120 hz
 			Most Tv’s have this
 			In my opinion this is the best option, unless it is 4K
-		240 hz
+	-	240 hz
 			Good for 4k, it needs it
 			Good for 3D
 			Bad for not 4k
@@ -128,17 +127,17 @@ date: "2016-08-21 21:25:39 -0400"
 			because of how CG is exported. Things not filmed in higher fps will be
 			blurred when displayed.
 
-	****some tv’s have the option to switch refresh rate if 240hz is advertised
+	*some tv’s have the option to switch refresh rate if 240hz is advertised*
 
 
-###### Resolution
-_720_
+## Resolution
+**720**
 Good for displays smaller than 30 inches viewed at normal couch distance
-_1080_
+**1080**
 Good for most TVs
 When size of tv is more than 40 inches, it depends on viewing distance
 Most things are exported in 1080
-_4K_
+**4K**
 Good for anything bigger than 45 inches
 Not much media is in 4K now, however it will slowly get there.
 Requires smart TV incorporated into it because of up sampling 1080
