@@ -7,14 +7,14 @@ date: "2016-08-21 21:25:39 -0400"
 
 1. First title
 2. second item
-⋅⋅* sub second.
+    sub second.
 3. third title
-⋅⋅1. 3 sub
+   1. 3 sub
 4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+	 To have a line break without a paragraph, you will need to use two trailing spaces.  
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
