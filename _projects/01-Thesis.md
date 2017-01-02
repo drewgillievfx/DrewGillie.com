@@ -23,6 +23,9 @@ be pushed before the shot starts to look unreal.*
 different ways and compare these different methods. Then talk a little bit about
 the science behind the shot.*
 
+![video test](/images/ChromeBall/IMG_9181.m4v)
+*video test*
+
 
 ## **1.	How to shoot a Chrome ball.**
 
@@ -43,7 +46,7 @@ larger chrome ball*
 ![Final Polished Chrome Ball](/images/ChromeBall/finalChromeBall.jpg)
 *This is the final polished chrome ball on set in the skybridge. There is some
 distortion on the ball. The equator of the ball is rotated so that it is barley
-noticeable.* 
+noticeable.*
 
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
