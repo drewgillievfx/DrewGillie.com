@@ -7,10 +7,7 @@ date: "2016-08-21 21:25:39 -0400"
 
 1. First title
 2. second item
-
-
-
-    	-sub second.
+		- sub second.
 
 3. third title
 
