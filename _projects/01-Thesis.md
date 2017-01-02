@@ -24,7 +24,7 @@ different ways and compare these different methods. Then talk a little bit about
 the science behind the shot.*
 
 
-## **1.	How to shoot a Chrome ball.**
+## **1.	How to shoot a Chrome ball r.**
 
   A chrome ball is typically used in High dynamic range photography. It can also
 be used to capture lighting information about a scene from nearly 270 degrees.
@@ -32,7 +32,10 @@ If the ball is shot from multiple angles, (90 degree separation) then most of
 the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
-![alt text](https://github.com/drewgillievfx/DrewGillie.com/blob/gh-pages/images/IMG_8483.jpg "First Chrome Ball")
+First Chrome ball Purchased  
+![alt text][fcb]
+
+[fcb]: https://github.com/drewgillievfx/DrewGillie.com/blob/gh-pages/images/IMG_8483.jpg "First Chrome Ball"
 
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
