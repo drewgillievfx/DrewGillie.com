@@ -32,8 +32,18 @@ If the ball is shot from multiple angles, (90 degree separation) then most of
 the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
-# trying to add photo here
 ![First Chrome Ball](/images/ChromeBall/FirstChromeBall.jpg)
+*This is the first chrome ball that I purchased. Notice the grain or scratches
+on the surface of the ball*
+
+![Mini Chrome Ball](/images/ChromeBall/MiniChromeBall.jpg)
+*This belonged to my thesis advisor Mark. This was tested and compared with the
+larger chrome ball*
+
+![Final Polished Chrome Ball](/images/ChromeBall/finalChromeBall.jpg)
+*This is the final polished chrome ball on set in the skybridge. There is some
+distortion on the ball. The equator of the ball is rotated so that it is barley
+noticeable.* 
 
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
