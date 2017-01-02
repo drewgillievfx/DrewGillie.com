@@ -33,8 +33,7 @@ the scenes radiometric energy can be represented in a 2D plane. This can later
 be used in post.
 
 # trying to add photo here
-![First Chrome Ball](/Users/Drew/Projects/DrewGillie.com/images/Chrome ball/IMG_9153.jpg)
-
+![First Chrome Ball](/images/Chrome%20ball/IMG_9153.jpg)
 
   This unwrapping process can be done with software like *Nuke*, or
 *Photomatix pro 5*. In *Maya* the equilateral map can be applied to an
